@@ -1,38 +1,20 @@
-# Scout da Pelada
+# Scout da Pelada - Vercel
 
-Aplicativo web responsivo para registrar os scouts da pelada de sabado.
+## Páginas
 
-## Recursos
+- `index.html`: página pública, somente leitura, com rankings e histórico.
+- `admin.html`: área administrativa para lançar rodadas e editar jogadores.
 
-- Historico importado da planilha original
-- Cadastro de rodadas
-- Gols, assistencias e campeoes
-- Ranking acumulado
-- Cadastro e inativacao de jogadores
-- Exportacao e importacao de backup
-- Instalacao no celular como PWA
+## PIN inicial da área administrativa
 
-## Publicar pela interface da Vercel
+`2607`
 
-1. Extraia o arquivo ZIP.
-2. Envie a pasta para um repositorio no GitHub, GitLab ou Bitbucket.
-3. Na Vercel, clique em **Add New > Project**.
-4. Importe o repositorio.
-5. Em **Framework Preset**, selecione **Other** caso a deteccao automatica nao escolha um framework.
-6. Nao preencha Build Command.
-7. Use `.` como Output Directory, caso o painel exija um valor.
-8. Clique em **Deploy**.
+Para trocar, abra `admin.html`, procure por `ADMIN_PIN` e altere o número.
 
-## Publicar pela linha de comando
+## Publicação
 
-```bash
-npm install -g vercel
-cd scout-pelada-vercel
-vercel --prod
-```
+Envie todos os arquivos para um repositório do GitHub e importe o repositório na Vercel usando o preset `Other`.
 
-## Armazenamento dos dados
+## Importante
 
-A versao atual salva os novos dados no `localStorage` do navegador. Isso significa que cada aparelho possui sua propria base. Use **Exportar backup** regularmente.
-
-Para sincronizar varios celulares na mesma base, sera necessario conectar o aplicativo a um banco online, como Supabase, Firebase ou Vercel Postgres.
+Esta versão salva novos lançamentos no navegador. Para que alterações feitas pelo administrador apareçam para todos os visitantes em aparelhos diferentes, conecte o projeto a um banco de dados online.
