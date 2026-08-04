@@ -1,0 +1,3125 @@
+{
+  "players": [
+    {
+      "id": "J001",
+      "name": "Andrei",
+      "goals": 15,
+      "assists": 14,
+      "titles": 0
+    },
+    {
+      "id": "J002",
+      "name": "Arthur",
+      "goals": 0,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J003",
+      "name": "Baró",
+      "goals": 30,
+      "assists": 13,
+      "titles": 0
+    },
+    {
+      "id": "J004",
+      "name": "Bruno (amigo Davi)",
+      "goals": 1,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J005",
+      "name": "Bruno C",
+      "goals": 0,
+      "assists": 5,
+      "titles": 0
+    },
+    {
+      "id": "J006",
+      "name": "Caldas",
+      "goals": 27,
+      "assists": 20,
+      "titles": 0
+    },
+    {
+      "id": "J007",
+      "name": "Carioca",
+      "goals": 11,
+      "assists": 8,
+      "titles": 0
+    },
+    {
+      "id": "J008",
+      "name": "Davi",
+      "goals": 11,
+      "assists": 9,
+      "titles": 0
+    },
+    {
+      "id": "J009",
+      "name": "Dedé",
+      "goals": 27,
+      "assists": 24,
+      "titles": 0
+    },
+    {
+      "id": "J010",
+      "name": "Eduardo",
+      "goals": 32,
+      "assists": 13,
+      "titles": 0
+    },
+    {
+      "id": "J011",
+      "name": "Eduardo Edesio",
+      "goals": 2,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J012",
+      "name": "Fabio GK",
+      "goals": 5,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J013",
+      "name": "Felipe Melo",
+      "goals": 0,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J014",
+      "name": "Feliphe",
+      "goals": 12,
+      "assists": 4,
+      "titles": 0
+    },
+    {
+      "id": "J015",
+      "name": "Firmino",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J016",
+      "name": "Fumaça",
+      "goals": 3,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J017",
+      "name": "Geladeira",
+      "goals": 26,
+      "assists": 28,
+      "titles": 0
+    },
+    {
+      "id": "J018",
+      "name": "Joao goleiro",
+      "goals": 1,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J019",
+      "name": "JP",
+      "goals": 15,
+      "assists": 11,
+      "titles": 0
+    },
+    {
+      "id": "J020",
+      "name": "Juninho",
+      "goals": 1,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J021",
+      "name": "Kerllon",
+      "goals": 4,
+      "assists": 3,
+      "titles": 0
+    },
+    {
+      "id": "J022",
+      "name": "Kikinho",
+      "goals": 8,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J023",
+      "name": "Luis",
+      "goals": 5,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J024",
+      "name": "Manuel Goleiro",
+      "goals": 0,
+      "assists": 3,
+      "titles": 0
+    },
+    {
+      "id": "J025",
+      "name": "Marco - Eduardo",
+      "goals": 5,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J026",
+      "name": "Marcos",
+      "goals": 5,
+      "assists": 2,
+      "titles": 0
+    },
+    {
+      "id": "J027",
+      "name": "Marcos Cirilo",
+      "goals": 3,
+      "assists": 2,
+      "titles": 0
+    },
+    {
+      "id": "J028",
+      "name": "Markin",
+      "goals": 1,
+      "assists": 2,
+      "titles": 0
+    },
+    {
+      "id": "J029",
+      "name": "Matheus - Edu",
+      "goals": 3,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J030",
+      "name": "Matheus F",
+      "goals": 4,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J031",
+      "name": "Mauricio",
+      "goals": 25,
+      "assists": 16,
+      "titles": 0
+    },
+    {
+      "id": "J032",
+      "name": "Maxwell",
+      "goals": 11,
+      "assists": 8,
+      "titles": 0
+    },
+    {
+      "id": "J033",
+      "name": "Moura",
+      "goals": 33,
+      "assists": 18,
+      "titles": 0
+    },
+    {
+      "id": "J034",
+      "name": "Mtz",
+      "goals": 3,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J035",
+      "name": "MTZ",
+      "goals": 3,
+      "assists": 2,
+      "titles": 0
+    },
+    {
+      "id": "J036",
+      "name": "Nanam",
+      "goals": 14,
+      "assists": 3,
+      "titles": 0
+    },
+    {
+      "id": "J037",
+      "name": "Pará",
+      "goals": 8,
+      "assists": 2,
+      "titles": 0
+    },
+    {
+      "id": "J038",
+      "name": "Pastor",
+      "goals": 25,
+      "assists": 16,
+      "titles": 0
+    },
+    {
+      "id": "J039",
+      "name": "Patrik",
+      "goals": 11,
+      "assists": 5,
+      "titles": 0
+    },
+    {
+      "id": "J040",
+      "name": "Paulista",
+      "goals": 0,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J041",
+      "name": "Pedro Carvalho",
+      "goals": 6,
+      "assists": 4,
+      "titles": 0
+    },
+    {
+      "id": "J042",
+      "name": "Pedrão",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J043",
+      "name": "Rique",
+      "goals": 3,
+      "assists": 3,
+      "titles": 0
+    },
+    {
+      "id": "J044",
+      "name": "Rodrigo",
+      "goals": 1,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J045",
+      "name": "Rodrigo Goleiro",
+      "goals": 5,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J046",
+      "name": "Rossi",
+      "goals": 21,
+      "assists": 17,
+      "titles": 0
+    },
+    {
+      "id": "J047",
+      "name": "Salinas",
+      "goals": 29,
+      "assists": 17,
+      "titles": 0
+    },
+    {
+      "id": "J048",
+      "name": "Samuel",
+      "goals": 0,
+      "assists": 2,
+      "titles": 0
+    },
+    {
+      "id": "J049",
+      "name": "Temponi",
+      "goals": 32,
+      "assists": 13,
+      "titles": 0
+    },
+    {
+      "id": "J050",
+      "name": "Thiago Vilas Boas",
+      "goals": 15,
+      "assists": 11,
+      "titles": 0
+    },
+    {
+      "id": "J051",
+      "name": "Tiago Manaus",
+      "goals": 9,
+      "assists": 6,
+      "titles": 0
+    },
+    {
+      "id": "J052",
+      "name": "Viana",
+      "goals": 1,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J053",
+      "name": "Victor",
+      "goals": 11,
+      "assists": 7,
+      "titles": 0
+    },
+    {
+      "id": "J054",
+      "name": "Vinicius salinas",
+      "goals": 4,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J055",
+      "name": "Vitor Asafe",
+      "goals": 0,
+      "assists": 1,
+      "titles": 0
+    },
+    {
+      "id": "J056",
+      "name": "Zé Lucas",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J057",
+      "name": "João Marcos (Pedro)",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J058",
+      "name": "mbappe (Pedro)",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J059",
+      "name": "Arthur Mito",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J060",
+      "name": "Lacorte",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J061",
+      "name": "Danilo (André)",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J062",
+      "name": "Pedro G",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J063",
+      "name": "caio",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J064",
+      "name": "Lucas",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J065",
+      "name": "Pedro",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J066",
+      "name": "Roberto",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J067",
+      "name": "Zé",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J068",
+      "name": "Felipe",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J069",
+      "name": "Dant",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J070",
+      "name": "Pedro L",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J071",
+      "name": "Gabriel",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J072",
+      "name": "Gabriel Lopes",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J073",
+      "name": "Dudu Perigoso",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    },
+    {
+      "id": "J074",
+      "name": "Daniel",
+      "goals": 0,
+      "assists": 0,
+      "titles": 0
+    }
+  ],
+  "rounds": [
+    {
+      "id": "R20250913",
+      "date": "2025-09-13",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J018",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J054",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J056",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20250920",
+      "date": "2025-09-20",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J017",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J018",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J057",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J058",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J033",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J054",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20250927",
+      "date": "2025-09-27",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J059",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J060",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J043",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J061",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J050",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J062",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J020",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J007",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20251004",
+      "date": "2025-10-04",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J063",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J054",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J052",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20251011",
+      "date": "2025-10-11",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J013",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J014",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J033",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J064",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J055",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J020",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20251018",
+      "date": "2025-10-18",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J025",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J054",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J023",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J052",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J048",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20251025",
+      "date": "2025-10-25",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J014",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J055",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J013",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J061",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20251101",
+      "date": "2025-11-01",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J066",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J055",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20251108",
+      "date": "2025-11-08",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J014",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J067",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J020",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J055",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J037",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J068",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J007",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J023",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20251122",
+      "date": "2025-11-22",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J069",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J048",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J070",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J071",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20251129",
+      "date": "2025-11-29",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J072",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J067",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J023",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20260228",
+      "date": "2026-02-28",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J033",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260307",
+      "date": "2026-03-07",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J021",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J008",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J004",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J007",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J017",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260314",
+      "date": "2026-03-14",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J033",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J008",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260321",
+      "date": "2026-03-21",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J037",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J036",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J008",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J007",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J028",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J016",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260328",
+      "date": "2026-03-28",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J033",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J008",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J071",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J050",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260404",
+      "date": "2026-04-04",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J005",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J055",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J032",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J054",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J050",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20260411",
+      "date": "2026-04-11",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J014",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J017",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J037",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J073",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260418",
+      "date": "2026-04-18",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J033",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J032",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J039",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J023",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J050",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J035",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260425",
+      "date": "2026-04-25",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J033",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J023",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J015",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J052",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J050",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J017",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J041",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260502",
+      "date": "2026-05-02",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J014",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J020",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J013",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J032",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J025",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260509",
+      "date": "2026-05-09",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J033",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J025",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J068",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J026",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J039",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J043",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J027",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260516",
+      "date": "2026-05-16",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J023",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J020",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20260530",
+      "date": "2026-05-30",
+      "note": "Histórico importado da planilha · 3 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J029",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J074",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J055",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J032",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260606",
+      "date": "2026-06-06",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J036",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J032",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J041",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20260613",
+      "date": "2026-06-13",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J030",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J055",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20260620",
+      "date": "2026-06-20",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J035",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J015",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J042",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J022",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J032",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20260627",
+      "date": "2026-06-27",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J032",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J055",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J041",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J002",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20260703",
+      "date": "2026-07-03",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J037",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J041",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J055",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20260711",
+      "date": "2026-07-11",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J001",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J033",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J007",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J051",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J065",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J053",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J017",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260718",
+      "date": "2026-07-18",
+      "note": "Histórico importado da planilha · 4 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J050",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J032",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J047",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J073",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J044",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J041",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J036",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J026",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        }
+      ]
+    },
+    {
+      "id": "R20260725",
+      "date": "2026-07-25",
+      "note": "Histórico importado da planilha · 3 campeão(ões) registrado(s)",
+      "scouts": [
+        {
+          "playerId": "J036",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J050",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J026",
+          "goals": 0,
+          "assists": 0,
+          "champion": true
+        },
+        {
+          "playerId": "J046",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J041",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J014",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J038",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    },
+    {
+      "id": "R20260801",
+      "date": "2026-08-01",
+      "note": "Histórico importado da planilha",
+      "scouts": [
+        {
+          "playerId": "J007",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J032",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J003",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J040",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J006",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J019",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J009",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J039",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J010",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J049",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J017",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        },
+        {
+          "playerId": "J031",
+          "goals": 0,
+          "assists": 0,
+          "champion": false
+        }
+      ]
+    }
+  ]
+}

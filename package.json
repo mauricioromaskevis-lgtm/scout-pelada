@@ -1,0 +1,10 @@
+{
+  "name": "scout-da-pelada",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicativo web para registrar gols, assistencias, campeoes e historico semanal da pelada.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
