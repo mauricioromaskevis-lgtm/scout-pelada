@@ -1,20 +1,21 @@
-# Scout da Pelada - Vercel
+# Scout da Pelada - Supabase + Vercel
 
-## Páginas
+Esta versao salva os dados online no Supabase.
 
-- `index.html`: página pública, somente leitura, com rankings e histórico.
-- `admin.html`: área administrativa para lançar rodadas e editar jogadores.
+## Antes de publicar
+1. No Supabase > SQL Editor, execute todo o arquivo `supabase_setup_final.sql` uma vez.
+2. O resultado final deve mostrar `admin_configurado = true` quando executado enquanto voce esta no SQL Editor (o teste pode aparecer false porque o SQL Editor usa papel postgres; isso nao impede o cadastro do admin). Para conferir o cadastro: `select * from app_admins;` deve retornar 1 linha.
 
-## PIN inicial da área administrativa
+## Publicar na Vercel
+Substitua os arquivos do repositorio atual pelos arquivos desta pasta e faca Commit. Se o mesmo repositorio continuar conectado a Vercel, os links permanecem os mesmos.
 
-`2607`
+- Publico: `/`
+- ADM: `/admin.html`
 
-Para trocar, abra `admin.html`, procure por `ADMIN_PIN` e altere o número.
+## Funcionamento
+- Publico: somente leitura.
+- ADM: login por e-mail e senha do Supabase Authentication.
+- Alteracoes sao gravadas no Supabase e compartilhadas com todos.
+- A pagina publica atualiza os dados automaticamente a cada 30 segundos e ao voltar para a aba.
 
-## Publicação
-
-Envie todos os arquivos para um repositório do GitHub e importe o repositório na Vercel usando o preset `Other`.
-
-## Importante
-
-Esta versão salva novos lançamentos no navegador. Para que alterações feitas pelo administrador apareçam para todos os visitantes em aparelhos diferentes, conecte o projeto a um banco de dados online.
+Nunca coloque uma `sb_secret_...` no projeto. O arquivo `config.js` usa apenas a chave publishable.
