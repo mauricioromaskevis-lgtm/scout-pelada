@@ -24,3 +24,9 @@ Observação: os scouts antigos de gols/assistências não tinham data individua
 - Rodadas podem ser excluidas pelo ADM.
 - A busca de jogadores durante o lancamento de uma rodada preserva todas as selecoes, gols, assistencias e campeoes ja marcados enquanto novas pesquisas sao feitas.
 - Nao e necessario executar SQL adicional para esta atualizacao.
+
+
+## Versao notas, times e ao vivo
+Antes de publicar esta versao, execute `upgrade_notas_times_ao_vivo.sql` uma vez no SQL Editor do Supabase. Depois substitua os arquivos no mesmo repositorio da Vercel.
+
+Novidades: nota de 0 a 10 por jogador, selecao persistente com busca, sorteio equilibrado de 2 a 4 times, times salvos na rodada e modo Pelada ao vivo para atualizar gols, assistencias e campeoes imediatamente.
