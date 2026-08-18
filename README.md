@@ -17,3 +17,10 @@ Os links de produção permanecem os mesmos.
 - Rodadas = quantidade real de participações em `scouts`.
 
 Observação: os scouts antigos de gols/assistências não tinham data individual na planilha original, por isso ficam como saldo histórico e não são distribuídos artificialmente entre os sábados.
+
+## Atualizacao - historico detalhado de rodadas
+- O historico mostra cada participante da rodada com gols, assistencias e indicador de campeao.
+- Rodadas existentes podem ser abertas em "Editar rodada", corrigidas e salvas novamente.
+- Rodadas podem ser excluidas pelo ADM.
+- A busca de jogadores durante o lancamento de uma rodada preserva todas as selecoes, gols, assistencias e campeoes ja marcados enquanto novas pesquisas sao feitas.
+- Nao e necessario executar SQL adicional para esta atualizacao.
