@@ -10,8 +10,8 @@
 <nav><button class="active" data-page="home">Início</button><button data-page="ranking">Rankings</button><button data-page="rounds">Rodadas</button></nav>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="config.js"></script><script>
 const db=supabase.createClient(PELADA_CONFIG.supabaseUrl,PELADA_CONFIG.supabasePublishableKey,{auth:{persistSession:false,autoRefreshToken:false,detectSessionInUrl:false}});let players=[],rounds=[],scouts=[],jogos=[];
-const esc=s=>String(s??'').replace(/[&<>'"]/g,c=>({'&':'&amp;
-function teamLabel(t){return t==='Time 1'?'🔵 Azul':t==='Time 2'?'🔴 Vermelho':t==='Time 3'?'⚪ Branco':t}','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+const esc=s=>String(s??'').replace(/[&<>'\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[c]));
+function teamLabel(t){return t==='Time 1'?'🔵 Azul':t==='Time 2'?'🔴 Vermelho':t==='Time 3'?'⚪ Branco':t}
 function totalFor(p){const ps=scouts.filter(s=>s.jogador_id===p.id);return{p,g:(p.gols_iniciais||0)+ps.reduce((n,s)=>n+(s.gols||0),0),a:(p.assistencias_iniciais||0)+ps.reduce((n,s)=>n+(s.assistencias||0),0),t:(p.titulos_iniciais||0)+ps.filter(s=>s.campeao).length,r:ps.length}}
 function all(){return players.filter(p=>p.ativo!==false).map(totalFor)} function by(k){return all().sort((x,y)=>y[k]-x[k]||y.g-x.g||y.a-x.a||x.p.nome.localeCompare(y.p.nome,'pt-BR'))}
 function topHtml(items,key){return items.slice(0,5).map((x,i)=>`<div class="rank-row"><b class="${i===0?'rank1':''}">${i+1}º</b><span>${esc(x.p.nome)}</span><b>${x[key]}</b></div>`).join('')||'<div class="empty">Sem dados.</div>'}
