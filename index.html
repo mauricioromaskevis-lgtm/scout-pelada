@@ -2,8 +2,202 @@
 <html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Scout da Pelada</title><meta name="theme-color" content="#0d6b43"><link rel="manifest" href="manifest.json">
 <style>
 :root{--g:#0d6b43;--g2:#168f5c;--bg:#f2f5f3;--card:#fff;--text:#17211c;--muted:#65726b;--line:#dfe7e2;--gold:#d99c19}*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,Arial,sans-serif;background:var(--bg);color:var(--text)}header{background:linear-gradient(135deg,var(--g),var(--g2));color:#fff;padding:22px 18px 18px;position:sticky;top:0;z-index:3}header h1{margin:0;font-size:23px}header p{margin:5px 0 0;opacity:.88;font-size:13px}main{max-width:1000px;margin:auto;padding:14px 14px 88px}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px;box-shadow:0 3px 12px #173d2710}.kpi b{display:block;font-size:25px;color:var(--g)}.kpi span,.muted{font-size:12px;color:var(--muted)}.title{margin:18px 0 10px}.title h2{font-size:18px;margin:0}.rank-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.rank-row{display:grid;grid-template-columns:32px 1fr 58px;gap:8px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line)}.rank-row:last-child{border-bottom:0}.rank1{font-weight:900;color:var(--gold)}table{width:100%;border-collapse:collapse;background:#fff;border-radius:14px;overflow:hidden}th,td{padding:11px 8px;border-bottom:1px solid var(--line);font-size:13px;text-align:left}th{color:var(--muted);font-size:11px;text-transform:uppercase}.search{width:100%;padding:11px;border:1px solid var(--line);border-radius:11px;background:white;font:inherit;margin-bottom:10px}.history-item{padding:12px 0;border-bottom:1px solid var(--line)}.round-details{margin-top:10px;border-top:1px dashed var(--line);padding-top:7px}.round-player{display:grid;grid-template-columns:minmax(120px,1fr) 54px 54px 34px;gap:6px;align-items:center;padding:6px 0;font-size:12px;border-bottom:1px solid #eef2ef}.round-player:last-child{border-bottom:0}.round-team-group{margin-top:12px;border:1px solid var(--line);border-radius:12px;padding:9px 10px;background:#fbfcfb}.round-team-group:first-child{margin-top:4px}.round-team-title{font-weight:900;color:var(--g);padding:2px 0 7px;border-bottom:1px solid var(--line)}.round-team-title span{font-weight:500;color:var(--muted);font-size:11px;margin-left:5px}.round-player .stat{text-align:center;font-weight:700}.round-player.head{color:var(--muted);font-size:10px;text-transform:uppercase;font-weight:800}.team-tag{display:inline-block;font-size:10px;padding:2px 6px;border-radius:999px;background:#eef3f0;color:var(--muted);margin-left:4px}.pill{display:inline-block;padding:4px 8px;border-radius:999px;background:#e8f5ed;color:var(--g);font-size:11px;font-weight:700;margin-top:6px}.standings{width:100%;border-collapse:collapse;margin-top:10px}.standings th,.standings td{padding:6px;border-bottom:1px solid var(--line);font-size:11px;text-align:center}.standings th:first-child,.standings td:first-child{text-align:left}.public-games{margin-top:12px}.public-game{padding:9px 0;border-bottom:1px solid var(--line);font-size:12px;line-height:1.55}.public-game:last-child{border-bottom:0}.empty{text-align:center;color:var(--muted);padding:30px}.status{font-size:12px;opacity:.9;margin-top:5px}.refresh{border:1px solid #ffffff55;background:#ffffff18;color:#fff;border-radius:10px;padding:6px 9px;float:right}nav{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid var(--line);display:flex;justify-content:center;z-index:5;padding-bottom:env(safe-area-inset-bottom)}nav button{border:0;background:none;padding:13px 22px;color:var(--muted);font-weight:700}nav button.active{color:var(--g)}section{display:none}section.active{display:block}@media(max-width:760px){.rank-grid{grid-template-columns:1fr}.grid{grid-template-columns:1fr 1fr}nav button{padding:12px 14px;font-size:12px}}
+
+/* ===== Football Pro UI v13 ===== */
+:root{
+  --bg:#07120d;
+  --panel:#0d1d15;
+  --panel2:#10251a;
+  --card:#12291d;
+  --line:#254635;
+  --text:#f5f8f6;
+  --muted:#9fb5a7;
+  --g:#24c16b;
+  --g2:#13874a;
+  --gold:#f5c451;
+  --red:#e45757;
+}
+body{
+  background:
+    radial-gradient(circle at 20% 0%,rgba(36,193,107,.10),transparent 30%),
+    linear-gradient(180deg,#07120d 0%,#091710 100%);
+  color:var(--text);
+}
+header{
+  background:
+    linear-gradient(135deg,rgba(15,95,50,.96),rgba(6,43,25,.98)),
+    repeating-linear-gradient(90deg,transparent 0 42px,rgba(255,255,255,.025) 42px 84px);
+  border-bottom:1px solid rgba(255,255,255,.09);
+  box-shadow:0 10px 30px rgba(0,0,0,.22);
+}
+header h1{
+  font-size:24px;
+  letter-spacing:.2px;
+  font-weight:900;
+}
+header p{color:#d7e7dd}
+main{max-width:1120px}
+.card,.team-card,.match-box,.modal-box,table{
+  background:linear-gradient(180deg,rgba(18,41,29,.98),rgba(13,29,21,.98));
+  border-color:var(--line);
+  box-shadow:0 12px 28px rgba(0,0,0,.14);
+}
+.card,.team-card,.match-box{border-radius:18px}
+.kpi{
+  position:relative;
+  overflow:hidden;
+}
+.kpi:after{
+  content:"";
+  position:absolute;
+  right:-18px;bottom:-28px;
+  width:92px;height:92px;border-radius:50%;
+  border:16px solid rgba(255,255,255,.035);
+}
+.kpi b{
+  font-size:30px!important;
+  color:#fff!important;
+}
+.title h2{
+  font-weight:900;
+  letter-spacing:.1px;
+}
+.muted,.note,.kpi span{color:var(--muted)!important}
+.rank-row{
+  border-color:var(--line)!important;
+}
+.rank-row b:last-child{
+  background:#173b28;
+  border:1px solid #28553d;
+  padding:5px 9px;
+  border-radius:999px;
+}
+.rank1{color:var(--gold)!important}
+table{
+  overflow:hidden;
+}
+th{
+  background:#0c2117;
+  color:#a9c3b3!important;
+}
+td,th{border-color:var(--line)!important}
+input,textarea,select,.search{
+  background:#0a1811!important;
+  color:#f5f8f6!important;
+  border-color:#2b4c3a!important;
+}
+input::placeholder,.search::placeholder{color:#73907e}
+.btn{
+  border-radius:12px;
+  transition:transform .12s ease,filter .12s ease;
+}
+.btn:active{transform:scale(.98)}
+.primary{
+  background:linear-gradient(135deg,#2bd976,#159653)!important;
+  color:#06130c!important;
+}
+.secondary{
+  background:#173b28!important;
+  color:#dff7e8!important;
+  border:1px solid #2d5c43!important;
+}
+.danger{
+  background:#3a1717!important;
+  color:#ffb9b9!important;
+}
+.pill{
+  background:#183b29!important;
+  color:#c9f3da!important;
+  border:1px solid #2a5a40;
+}
+.round-team-group{
+  background:#0b1c13!important;
+  border-color:#28503a!important;
+}
+.round-team-title{
+  color:#dff9e9!important;
+  font-size:14px;
+}
+.team-card h3,.live-match-title{
+  font-weight:900;
+}
+.team-tag,.attr,.rating{
+  background:#173827!important;
+  color:#d7ecdf!important;
+}
+.live-row,.team-member,.history-item,.match-row{
+  border-color:var(--line)!important;
+}
+.live-btn{
+  background:#1c5133!important;
+  color:#effff5!important;
+}
+.live-btn.minus{
+  background:#17271f!important;
+  color:#b9c9bf!important;
+}
+.standings th{
+  background:#0b2016;
+}
+.champion-banner{
+  background:linear-gradient(135deg,#4a3a12,#2c240d)!important;
+  color:#ffe8a6!important;
+  border:1px solid #705d1d;
+}
+.game-detail{
+  background:#0b1b13!important;
+  border-color:#284b38!important;
+}
+.active-game{
+  border-color:#35d77e!important;
+  box-shadow:0 0 0 2px rgba(53,215,126,.10),0 10px 24px rgba(0,0,0,.16);
+}
+nav{
+  background:rgba(8,23,16,.96)!important;
+  border-color:#234231!important;
+  backdrop-filter:blur(10px);
+}
+nav button{
+  color:#91aa9a!important;
+}
+nav button.active{
+  color:#5ce897!important;
+  position:relative;
+}
+nav button.active:before{
+  content:"";
+  position:absolute;
+  top:0;left:20%;right:20%;
+  height:3px;border-radius:0 0 5px 5px;
+  background:#43db87;
+}
+.modal{background:rgba(0,0,0,.72)!important}
+.modal-box{color:var(--text)}
+.gate{
+  background:
+    radial-gradient(circle at 50% 25%,rgba(36,193,107,.16),transparent 28%),
+    #07120d!important;
+}
+.gate .card{
+  border:1px solid #2d543f!important;
+}
+.status{color:#d9eee1!important}
+.refresh{
+  background:#ffffff12!important;
+  border-color:#ffffff30!important;
+}
+.public-games,.round-details{border-color:var(--line)!important}
+@media(max-width:760px){
+  header h1{font-size:21px}
+  .card{border-radius:15px}
+  nav{
+    overflow-x:auto;
+    justify-content:flex-start!important;
+  }
+  nav button{white-space:nowrap}
+}
 </style></head><body>
-<header><button class="refresh" onclick="loadData()">Atualizar</button><h1>⚽ Scout da Pelada</h1><p>Ranking oficial de gols, assistências e títulos</p><div class="status" id="status">Carregando...</div></header>
+<header><button class="refresh" onclick="loadData()">Atualizar</button><h1>⚽ Pelada League</h1><p>Scouts, times, partidas e ranking em um só lugar</p><div class="status" id="status">Carregando...</div></header>
 <main><section id="home" class="active"><div class="grid" id="kpis"></div><div class="rank-grid" style="margin-top:14px"><div class="card"><div class="title" style="margin-top:0"><h2>⚽ Artilharia</h2></div><div id="topGoals"></div></div><div class="card"><div class="title" style="margin-top:0"><h2>🅰️ Assistências</h2></div><div id="topAssists"></div></div><div class="card"><div class="title" style="margin-top:0"><h2>🏆 Campeões</h2></div><div id="topTitles"></div></div></div><div class="title"><h2>Última rodada</h2></div><div class="card" id="lastRound"></div></section>
 <section id="ranking"><div class="title"><h2>Ranking completo</h2></div><input class="search" id="rankSearch" placeholder="Buscar jogador..."><div style="overflow:auto"><table><thead><tr><th>Jogador</th><th>Gols</th><th>Assist.</th><th>Títulos</th><th>Rodadas</th></tr></thead><tbody id="rankingBody"></tbody></table></div></section>
 <section id="rounds"><div class="title"><h2>Histórico das rodadas</h2></div><div class="card" id="history"></div></section></main>
