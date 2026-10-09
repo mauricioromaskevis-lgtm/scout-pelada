@@ -320,7 +320,7 @@ function championTeam(rid){
 function championPhotoHTML(r,large=false){
   const url=championPhotoUrl(r);if(!url)return '';
   const team=championTeam(r.id),label=team?teamLabel(team):'Campeões';
-  if(large)return `<div class="card champions-hero"><div class="champions-stars" aria-hidden="true"></div><img src="${esc(url)}" alt="Campeões da rodada de ${new Date(r.data+'T12:00:00').toLocaleDateString('pt-BR')}"><div class="champions-hero-content"><div><div class="champions-final-label">★ Pelada League · Noite dos campeões ★</div><div class="champions-kicker">🏆 Campeões da semana</div><h2>${esc(label)}</h2><p>Rodada de ${new Date(r.data+'T12:00:00').toLocaleDateString('pt-BR')}</p></div><div class="hero-team-badge">⚽ Pelada League · Campeões</div></div></div>`;
+  if(large)return `<div class="card champions-hero"><div class="champions-stars" aria-hidden="true"></div><img src="${esc(url)}" alt="Campeões da rodada de ${new Date(r.data+'T12:00:00').toLocaleDateString('pt-BR')}"><div class="champions-hero-content"><div><div class="champions-final-label">★ Pelada League · Sábado dos campeões ★</div><div class="champions-kicker">🏆 Campeões da semana</div><h2>${esc(label)}</h2><p>Rodada de ${new Date(r.data+'T12:00:00').toLocaleDateString('pt-BR')}</p></div><div class="hero-team-badge">⚽ Pelada League · Campeões</div></div></div>`;
   return `<img class="champion-photo round-photo" src="${esc(url)}" alt="Foto dos campeões da rodada">`;
 }
 
